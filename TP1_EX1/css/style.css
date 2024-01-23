@@ -1,0 +1,9 @@
+.content-block{
+    display : flex;
+    align-items: right;
+}
+
+.text-block{
+    /* flex : 1; */
+    flex-grow: 1;
+}
