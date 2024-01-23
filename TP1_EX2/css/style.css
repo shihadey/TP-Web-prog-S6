@@ -6,9 +6,22 @@
 .product-block{
     /* flex : 1; */
     flex-grow: 1;
-    /* Maximum 3 cells per row */
-    flex-wrap: wrap;
-    /* Align items vertically */
-    align-items: center;
-    
 }
+
+.greenBG{
+    background-color: green;
+    /* font color is white*/
+    color: white;
+}
+
+.greenBanner{
+    background-color: green;
+}
+
+.banner{
+    background-color: #323e3e9b;
+    padding: 10px;
+    color: #f1f1f1;
+    flex-grow: 1;
+}
+
