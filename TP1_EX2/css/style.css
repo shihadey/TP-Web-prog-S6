@@ -1,0 +1,14 @@
+.content-block{
+    display : flex;
+    align-items: right;
+}
+
+.product-block{
+    /* flex : 1; */
+    flex-grow: 1;
+    /* Maximum 3 cells per row */
+    flex-wrap: wrap;
+    /* Align items vertically */
+    align-items: center;
+    
+}
